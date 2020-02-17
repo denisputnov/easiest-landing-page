@@ -8,5 +8,4 @@ https://vk.com/grnbows </br>
 https://www.instagram.com/grnbows </br>
 https://twitter.com/grnbows </br>
 
-# This project is free for personal and commercial use.
-# by grnbows
+# This project is free for personal and commercial use. </br> by grnbows
