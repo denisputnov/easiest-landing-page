@@ -4,9 +4,9 @@ Here you can write some info about you and your work and post links on your onli
 by grnbows
 
 # Find me here:
-https://github.com/grnbows
-https://vk.com/grnbows
-https://www.instagram.com/grnbows
-https://twitter.com/grnbows
+https://github.com/grnbows </br>
+https://vk.com/grnbows </br>
+https://www.instagram.com/grnbows </br>
+https://twitter.com/grnbows </br>
 
 # This project is free for personal and commercial use.
